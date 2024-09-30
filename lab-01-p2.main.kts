@@ -13,3 +13,5 @@ fun bingoWord(word: String): String {
 fun main() {
     println(bingoWord("Birthday"))
 }
+
+main()
